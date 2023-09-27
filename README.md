@@ -4,7 +4,8 @@ Welcome to my portfolio website repository! This is a personal project where I'v
 
 ## Preview
 
-![portfolio](https://github.com/Harshita043/PortfolioWebsite/assets/76040874/cb600e94-30c3-47d1-afd2-1c145d4cfbf1)
+
+![harshitaportfolio](https://github.com/Harshita043/PortfolioWebsite/assets/76040874/c231ec79-40fc-4996-8e8b-afbdb093aa46)
 
 
 
