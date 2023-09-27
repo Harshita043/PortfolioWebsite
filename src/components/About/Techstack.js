@@ -4,10 +4,14 @@ import { CgCPlusPlus } from "react-icons/cg";
 import {
     DiJavascript1,
     DiReact,
+    DiMongodb,
     DiNodejs,
     DiPython,
     DiGit,
+    DiJava,
+
 } from "react-icons/di";
+import {SiExpress,SiBootstrap} from "react-icons/si";
 
 
 function Techstack() {
@@ -33,6 +37,20 @@ function Techstack() {
             <Col xs={4} md={2} className="tech-icons">
                 <DiPython />
             </Col>
+            <Col xs={4} md={2} className="tech-icons">
+                <DiJava />
+            </Col>
+            <Col xs={4} md={2} className="tech-icons">
+                <DiMongodb />
+            </Col>
+            <Col xs={4} md={2} className="tech-icons">
+                <SiExpress />
+            </Col>
+            <Col xs={4} md={2} className="tech-icons">
+                <SiBootstrap />
+            </Col>
+
+
 
         </Row>
     );
